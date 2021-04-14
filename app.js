@@ -28,3 +28,5 @@ alert("you are overweight, we are here to help you")
 alert ("we are waiting you at our place, happy to see you there")
 
 alert("are you excited!!")
+
+confirm ("PRESS TO CONFIRM")
