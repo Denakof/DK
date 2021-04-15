@@ -2,7 +2,7 @@ alert ("for subscription press ok")
 
 var username = prompt ("enter your name please");
 alert ("welcome " + username)
-prompt ("enter your name please")
+
 console.log("welcome " + username)
 
 
@@ -37,6 +37,7 @@ alert("you are overweight, we are here to help you")}
 
 alert ("we are waiting you at our place, happy to see you there")
 
+
 var duration = prompt ("will you subscribe for 1,2 or 3 months") 
 if (duration >=2)
 { var image ='<img src= "https://www.hotelconcordiabarcelona.com/content/thumbs/1024/content/imgsxml/ofertas/amp-20-ciento-descuento-texto-3d-2227-126812.jpg" alt="image"/>';
@@ -48,3 +49,4 @@ else if (duration<2){ var image5 = '<img src="https://steamgamesbtc.com/pics/356
 alert("are you excited!!")
 
 confirm ("PRESS TO CONFIRM")
+
