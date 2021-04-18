@@ -3,10 +3,16 @@
 
 
 var username = prompt ("enter your name please");
+<<<<<<< HEAD
 function greeting (name){
 alert ("welcome " + name)
 }
 greeting(username);
+
+
+alert ("welcome " + username)
+
+console.log("welcome " + username)
 
 
 
@@ -49,6 +55,11 @@ function discount(){
   var duration = prompt ("will you subscribe for 1,2 or 3 months") 
 
   if (duration >=2)
+
+var duration = prompt ("will you subscribe for 1,2 or 3 months") 
+if (duration >=2)
+
+ 
 { var image ='<img src= "https://www.hotelconcordiabarcelona.com/content/thumbs/1024/content/imgsxml/ofertas/amp-20-ciento-descuento-texto-3d-2227-126812.jpg" alt="image"/>';
 document.write(image)}
 
@@ -56,6 +67,7 @@ else if (duration<2){ var image5 = '<img src="https://steamgamesbtc.com/pics/356
 
 
 alert("are you excited!!")
+
 
 confirm ("PRESS TO CONFIRM")}
 discount();
@@ -65,5 +77,8 @@ discount();
 
 
 
+
+
+confirm ("PRESS TO CONFIRM")
 
 
