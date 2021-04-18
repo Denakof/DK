@@ -1,9 +1,7 @@
-nav ul li {
-  text-decoration: none;
-}
 
-
-			text-align: center
+			
+      hi{
+      text-align: center
 		}
 
 		li {
@@ -23,7 +21,7 @@ nav ul li {
 		}
 
 		img {
-			width: 500px
+			width: 550px
 		}
 
 		body {
@@ -33,3 +31,9 @@ nav ul li {
 		li {
 			padding-left: 30px
 		}
+    
+    img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }

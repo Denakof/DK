@@ -3,7 +3,7 @@
 
 
 var username = prompt ("enter your name please");
-<<<<<<< HEAD
+
 function greeting (name){
 alert ("welcome " + name)
 }
@@ -77,8 +77,5 @@ discount();
 
 
 
-
-
-confirm ("PRESS TO CONFIRM")
 
 
